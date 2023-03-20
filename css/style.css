@@ -1,0 +1,25 @@
+.card{
+    background-color:#C4C4C4;
+    width: 200px;
+    height: 226px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.card img{
+    margin-left: 35px;
+    margin-right: 35px;
+    width: 130px;
+    height:130px;
+}
+.card-title{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+.sub{
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: center;
+}
